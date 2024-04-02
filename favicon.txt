@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <body bgcolor="#D6EAF8">
+        <link rel="icon" type="image/jpg" href="images/favicon.jpg">
+        <title>Sujay's First Website</title>
+    </body>
+    </head>
+
+</html>
